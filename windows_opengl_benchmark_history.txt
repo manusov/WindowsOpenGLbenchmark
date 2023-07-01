@@ -1,9 +1,6 @@
-# WindowsOpenGLbenchmark
-OpenGL programming example (Win x64 and ia32).
-Visual Studio 2022 project.
-
-See also previous branches, prototyping and debug:
+01.07.2023. First commit. Engineering sample #22.
+See also previous branches:
+Prototyping and debug:
 https://github.com/manusov/Prototyping
 https://github.com/manusov/Prototyping/tree/master/OpenGL_VisualStudio
 https://github.com/manusov/Prototyping/tree/master/OpenGL_FASM
-
